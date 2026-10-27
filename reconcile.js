@@ -8,14 +8,31 @@ const fs = require("fs");
 let total = 0;
 let count = 0;
 
+const latest = new Map();
 const lines = fs.readFileSync("payments.jsonl", "utf8").split("\n").filter((l) => l.length > 0);
 for (const line of lines) {
-  const event = JSON.parse(line);
+  try {
+    const event = JSON.parse(line);
+    if (!event.txn_id) {
+      continue;
+    }
+    const current = latest.get(event.txn_id);
+    if (!current || event.ts > current.ts) {
+      latest.set(event.txn_id, event);
+    }
+  } catch (error) {
+    continue;
+  }
+}
+
+for (const event of latest.values()) {
   if (event.status === "success") {
-    total += Number(event.amount);
+    total += event.amount;
     count += 1;
   }
 }
+
+console.log("Total: ", total, "Count: ", count)
 
 const expected = parseInt(fs.readFileSync("expected.txt", "utf8").trim(), 10);
 

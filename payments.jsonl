@@ -14762,7 +14762,6 @@
 {"txn_id": "txn_026470_6577", "status": "success", "amount": 19554.8, "currency": "NGN", "ts": "2026-09-14T16:09:46Z"}
 {"txn_id": "txn_005435_8098", "status": "pending", "amount": 2008.87, "currency": "NGN", "ts": "2026-09-25T12:25:32Z"}
 {"txn_id": "txn_006847_1833", "status": "pending", "amount": 379333.18, "currency": "NGN", "ts": "2026-09-09T01:40:33Z"}
-{"txn_id": "
 {"txn_id": "txn_003767_1923", "status": "success", "amount": 360684.99, "currency": "NGN", "ts": "2026-09-23T07:23:53Z"}
 {"txn_id": "txn_007312_1388", "status": "success", "amount": 6726.12, "currency": "NGN", "ts": "2026-09-02T06:09:59Z"}
 {"txn_id": "txn_027217_6716", "status": "success", "amount": 16821.99, "currency": "NGN", "ts": "2026-09-24T05:21:12Z"}
@@ -18637,7 +18636,6 @@
 {"txn_id": "txn_008928_7016", "status": "success", "amount": 104021.79, "currency": "NGN", "ts": "2026-09-02T16:35:19Z"}
 {"txn_id": "txn_013119_5911", "status": "success", "amount": 4736.45, "currency": "NGN", "ts": "2026-09-20T03:05:50Z"}
 {"txn_id": "txn_003937_5277", "status": "success", "amount": 2249.44, "currency": "NGN", "ts": "2026-09-08T22:53:43Z"}
-{"txn_id": "txn_014765_5447", "
 {"txn_id": "txn_014765_5447", "status": "success", "amount": 2378.88, "currency": "NGN", "ts": "2026-09-12T00:28:34Z"}
 {"txn_id": "txn_018208_2144", "status": "failed", "amount": 6822.61, "currency": "NGN", "ts": "2026-09-09T13:03:23Z"}
 {"txn_id": "txn_017031_2699", "status": "failed", "amount": 31357.56, "currency": "NGN", "ts": "2026-09-17T02:56:15Z"}
@@ -20014,7 +20012,6 @@
 {"txn_id": "txn_025819_2317", "status": "success", "amount": 3462.77, "currency": "NGN", "ts": "2026-09-16T20:44:22Z"}
 {"txn_id": "txn_004129_5717", "status": "success", "amount": 346294.12, "currency": "NGN", "ts": "2026-09-21T15:59:31Z"}
 {"txn_id": "txn_011638_2334", "status": "success", "amount": 44002.02, "currency": "NGN", "ts": "2026-09-02T01:52:38Z"}
-{"txn_id": "txn_0173
 {"txn_id": "txn_017349_3312", "status": "failed", "amount": 387196.04, "currency": "NGN", "ts": "2026-09-24T11:05:03Z"}
 {"txn_id": "txn_008128_2935", "status": "failed", "amount": 162126.49, "currency": "NGN", "ts": "2026-09-08T21:44:30Z"}
 {"txn_id": "txn_028552_7840", "status": "failed", "amount": 29792.47, "currency": "NGN", "ts": "2026-09-13T15:37:17Z"}
@@ -20628,7 +20625,6 @@
 {"txn_id": "txn_017449_1729", "status": "failed", "amount": 2521.67, "currency": "NGN", "ts": "2026-09-19T18:38:44Z"}
 {"txn_id": "txn_003628_6175", "status": "failed", "amount": 4865.33, "currency": "NGN", "ts": "2026-09-19T17:28:04Z"}
 {"txn_id": "txn_018581_8802", "status": "failed", "amount": 106547.17, "currency": "NGN", "ts": "2026-09-24T10:37:10Z"}
-{"txn_id": "txn_010512_8047", "stat
 {"txn_id": "txn_010512_8047", "status": "success", "amount": 47547.67, "currency": "NGN", "ts": "2026-09-20T23:12:33Z"}
 {"txn_id": "txn_011773_9294", "status": "success", "amount": 15926.99, "currency": "NGN", "ts": "2026-09-07T05:03:55Z"}
 {"txn_id": "txn_015069_8500", "status": "success", "amount": 24525.09, "currency": "NGN", "ts": "2026-09-24T14:36:39Z"}
@@ -20735,7 +20731,6 @@
 {"txn_id": "txn_014709_3181", "status": "failed", "amount": 293644.4, "currency": "NGN", "ts": "2026-09-11T14:01:33Z"}
 {"txn_id": "txn_020842_8615", "status": "pending", "amount": 3841.51, "currency": "NGN", "ts": "2026-09-20T01:23:35Z"}
 {"txn_id": "txn_018223_7821", "status": "success", "amount": 227252.53, "currency": "NGN", "ts": "2026-09-06T11:27:21Z"}
-{"txn_id":
 {"txn_id": "txn_027491_4672", "status": "pending", "amount": 634.46, "currency": "NGN", "ts": "2026-09-10T02:51:17Z"}
 {"txn_id": "txn_017843_7324", "status": "failed", "amount": 155454.58, "currency": "NGN", "ts": "2026-09-01T19:04:35Z"}
 {"txn_id": "txn_022545_1569", "status": "success", "amount": 37703.32, "currency": "NGN", "ts": "2026-09-13T05:32:02Z"}
@@ -20918,7 +20913,6 @@
 {"txn_id": "txn_013700_2399", "status": "success", "amount": 49776.79, "currency": "NGN", "ts": "2026-09-04T20:42:07Z"}
 {"txn_id": "txn_023598_4339", "status": "failed", "amount": 3130.25, "currency": "NGN", "ts": "2026-09-05T05:17:50Z"}
 {"txn_id": "txn_023189_8741", "status": "failed", "amount": 122963.15, "currency": "NGN", "ts": "2026-09-25T13:01:09Z"}
-{"txn_id": "txn_01414
 {"txn_id": "txn_014146_2550", "status": "pending", "amount": 192912.05, "currency": "NGN", "ts": "2026-09-10T02:02:16Z"}
 {"txn_id": "txn_010129_8421", "status": "success", "amount": 44430.9, "currency": "NGN", "ts": "2026-09-07T10:52:51Z"}
 {"txn_id": "txn_029479_4899", "status": "success", "amount": 19547.81, "currency": "NGN", "ts": "2026-09-04T13:25:01Z"}
@@ -25772,7 +25766,6 @@
 {"txn_id": "txn_013442_1043", "status": "failed", "amount": 150464.62, "currency": "NGN", "ts": "2026-09-11T15:35:19Z"}
 {"txn_id": "txn_023623_7810", "status": "failed", "amount": 594.03, "currency": "NGN", "ts": "2026-09-08T04:25:11Z"}
 {"txn_id": "txn_025276_7577", "status": "success", "amount": 204856.87, "currency": "NGN", "ts": "2026-09-27T13:04:33Z"}
-{"txn_id": "txn_004776_6564", "st
 {"txn_id": "txn_004776_6564", "status": "pending", "amount": 32177.44, "currency": "NGN", "ts": "2026-09-12T03:40:51Z"}
 {"txn_id": "txn_014012_7717", "status": "failed", "amount": 121437.11, "currency": "NGN", "ts": "2026-09-20T14:44:25Z"}
 {"txn_id": "txn_023579_4414", "status": "success", "amount": 2258.02, "currency": "NGN", "ts": "2026-09-27T10:52:21Z"}
@@ -26327,7 +26320,6 @@
 {"txn_id": "txn_014414_7935", "status": "pending", "amount": 347011.34, "currency": "NGN", "ts": "2026-09-03T23:30:25Z"}
 {"txn_id": "txn_028093_2071", "status": "success", "amount": 19677.2, "currency": "NGN", "ts": "2026-09-03T20:56:17Z"}
 {"txn_id": "txn_007712_8552", "status": "success", "amount": "4,972.99", "currency": "NGN", "ts": "2026-09-24T13:02:37Z"}
-{"txn_id": "txn_018685_5317", "
 {"txn_id": "txn_018685_5317", "status": "success", "amount": 23171.94, "currency": "NGN", "ts": "2026-09-05T19:34:33Z"}
 {"txn_id": "txn_023529_2400", "status": "pending", "amount": 26094.59, "currency": "NGN", "ts": "2026-09-21T23:58:03Z"}
 {"txn_id": "txn_015900_5021", "status": "success", "amount": "898.56", "currency": "NGN", "ts": "2026-09-02T12:07:06Z"}
@@ -26838,7 +26830,6 @@
 {"txn_id": "txn_017285_9726", "status": "success", "amount": 202833.68, "currency": "NGN", "ts": "2026-09-24T08:32:41Z"}
 {"txn_id": "txn_021262_9617", "status": "success", "amount": "39,580.51", "currency": "NGN", "ts": "2026-09-21T15:55:05Z"}
 {"txn_id": "txn_018499_8732", "status": "failed", "amount": 4506.28, "currency": "NGN", "ts": "2026-09-28T03:17:17Z"}
-{"txn_id": "txn_005576
 {"txn_id": "txn_005576_8290", "status": "success", "amount": 126622.56, "currency": "NGN", "ts": "2026-09-05T13:08:03Z"}
 {"txn_id": "txn_006982_2108", "status": "pending", "amount": 2261.04, "currency": "NGN", "ts": "2026-09-07T16:03:10Z"}
 {"txn_id": "txn_008357_9558", "status": "success", "amount": 6133.17, "currency": "NGN", "ts": "2026-09-21T10:00:36Z"}
